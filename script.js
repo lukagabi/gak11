@@ -1,20 +1,28 @@
-let name = "luka";
-let surname ="gogochuri";
-let r = 10;
-let area = r * r;
-let l = 2 * r;
- 
-console.log( r * r);
- console.log( area);
- console.log(l);
+let name = "Luka";
+let surname = "Gogochuri";
 
- let a = 5;
- let b = 10;
- let c = (a * a + b * b);
-
- console.log("Hypotenuse =" + c);
+console.log (name + " " + surname);
 
 
-let x = prompt;
+let	r = 17;
 
-console.log ("The volume of the cube =" + (x, 3));
+let S = Math.PI * r * r;
+
+let	l = 2 * Math.PI * r;
+
+console.log	( + r);
+console.log	( + S);
+console.log	( + l);
+
+
+let x = 3;
+let y = 5;
+
+let c = Math.sqrt (x * x + y * y);
+
+console.log ("ჰიპოტენუზა = " + c);
+
+
+let	a = prompt("კუბის მოცულობის გამოსათვლელად შეიყვანე წიბოს ზომა");
+
+console.log ("კუბის მოცულობა = " + Math.pow (a, 3));
