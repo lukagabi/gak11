@@ -20,9 +20,9 @@ let y = 5;
 
 let c = Math.sqrt (x * x + y * y);
 
-console.log ("ჰიპოტენუზა = " + c);
+console.log ( + c);
 
 
 let	a = prompt("კუბის მოცულობის გამოსათვლელად შეიყვანე წიბოს ზომა");
 
-console.log ("კუბის მოცულობა = " + Math.pow (a, 3));
+console.log ( + Math.pow (a, 3));
