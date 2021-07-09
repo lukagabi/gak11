@@ -1,16 +1,16 @@
-// TASK 2  PRIMITIVE TYPES.
-let age=17;
-let a=5.4;
-let name= "mariam";
-let x = true;
-let y=false;
-let nothing= null;
-let z= undefined;
- 
+let name = "Elene";
+let surname = "Khunashvili";
 
-// TASK 3//
-let r = 5;
-let s = 3.14 *(r*r);
-let l= 2* (3.14*r);
-
-//TASK4//
+console.log (name + " " + surname);
+let	r = 20;
+let S = Math.PI * r * r;
+let	l = 2 * Math.PI * r;
+console.log	("წრეწირის რადიუსი = " + r);
+console.log	("წრეწირის ფართობი = " + S);
+console.log	("წრეწირის სიგრძე = " + l);
+let x = 3;
+let y = 5;
+let c = Math.sqrt (x * x + y * y);
+console.log ("ჰიპოტენუზა = " + c);
+let	a = prompt("კუბის მოცულობის გამოსათვლელად შეიყვანე წიბოს ზომა");
+console.log ("კუბის მოცულობა = " + Math.pow (a, 3));
