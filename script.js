@@ -1,8 +1,8 @@
-let name = "Elene";
-let surname = "Khunashvili";
+let name = "LUKA";
+let surname = "GOGOCHURI";
 
 console.log (name + " " + surname);
-let	r = 20;
+let	r = 17;
 let S = Math.PI * r * r;
 let	l = 2 * Math.PI * r;
 console.log	("წრეწირის რადიუსი = " + r);
