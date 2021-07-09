@@ -1,5 +1,5 @@
 // TASK 2  PRIMITIVE TYPES.
-let age=24;
+let age=17;
 let a=5.4;
 let name= "mariam";
 let x = true;
